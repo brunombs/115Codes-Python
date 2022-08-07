@@ -1,10 +1,17 @@
 import random
+from time import sleep
 jokenpo = int(input('''
 Escolha uma opção:
 [1] Pedra
 [2] Papel
 [3] Tesoura
 '''))
+print('JO')
+sleep(1)
+print('KEN')
+sleep(1)
+print('PO')
+
 pedra = ('pedra')
 papel = ('papel')
 tesoura = ('tesoura')
