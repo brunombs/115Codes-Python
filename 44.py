@@ -15,3 +15,5 @@ elif condição == 3:
     print('O produto no cartão em até 2x tem o preço normal!')
 elif condição == 4:
     print('O produto no cartão parcelado em 3x ou mais tem aumento de 20% do valor, totalizando: {:.2f}'.format(valordoproduto * 1.20))
+else:
+    print('Opção de pagamento inválida, tente novamente!')
