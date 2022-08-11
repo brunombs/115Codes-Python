@@ -1,6 +1,6 @@
 primeirotermo = int(input('Digite o primeiro termo: '))
 razão = int(input('Digite a razão: '))
-contador = 0
+contador = 1
 total = 0
 mais = 10
 while mais != 0:
