@@ -1,6 +1,6 @@
 numero = int(input('Digite o primeiro termo: '))
 razão = int(input('Digite a razão do número: '))
-contador = 0
+contador = 1
 while contador < 11:
     print('O {}º termo da P.A é: {}'.format(contador, numero))
     numero = numero + razão
