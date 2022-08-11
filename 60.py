@@ -1,4 +1,10 @@
-from math import factorial
-numero = int(input('Digite um número: '))
-fatorial = factorial(numero)
-print('O fatorial de {} é {}'.format(numero, fatorial))
+número = int(input('Digite um número: '))
+contador = número
+fatorial = 1
+print('{}! ='.format(número), end=' ')
+while contador > 0:
+    print('{} '.format(contador), end='')
+    print('x' if contador > 1 else '=', end=' ')
+    fatorial *= contador
+    contador -= 1
+print(fatorial)
