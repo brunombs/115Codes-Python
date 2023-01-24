@@ -1,1 +1,1 @@
-from ex112.utilidades import dado
+from ex111.utilidades import dado
