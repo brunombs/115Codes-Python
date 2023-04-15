@@ -17,31 +17,31 @@
     <li><details>
       <summary>Conhecendo a linguagem</summary>
       <ul>
-        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%201-5%20-%20Conhecendo%20a%20linguagem/001 - Deixando tudo pronto.py">Exercício Python #01 - Deixando tudo pronto</a></li>
-        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%201-5%20-%20Conhecendo%20a%20linguagem/002 - Respondendo ao usuário.py">Exercício Python #02 - Respondendo ao usuário</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%201-5%20-%20Conhecendo%20a%20linguagem/001 - Deixando tudo pronto.py">01 - Deixando tudo pronto</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%201-5%20-%20Conhecendo%20a%20linguagem/002 - Respondendo ao usuário.py">02 - Respondendo ao usuário</a></li>
       </ul>
     </details></li>
     <li><details>
       <summary>Primeiros passos</summary>
       <ul>
-        <li><a href="https://github.com/brunombs/Exercicios-Python/tree/main/Mundo%201/Aula%206%20-%20Primeiros%20Passos/003 - Somando dois números.py">Exercício Python #03 - Somando dois números</a></li>
-        <li><a href="https://github.com/brunombs/Exercicios-Python/tree/main/Mundo%201/Aula%206%20-%20Primeiros%20Passos/004 - Dissecando uma variável.py">Exercício Python #04 - Dissecando uma variável</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/tree/main/Mundo%201/Aula%206%20-%20Primeiros%20Passos/003 - Somando dois números.py">03 - Somando dois números</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/tree/main/Mundo%201/Aula%206%20-%20Primeiros%20Passos/004 - Dissecando uma variável.py">04 - Dissecando uma variável</a></li>
       </ul>
     </details></li>
     <li><details>
       <summary>Cálculos e operações</summary>
       <ul>
-        <li>Exercício Python #05 - Antecessor e sucessor</li>
-        <li>Exercício Python #06 - Dobro, triplo e raiz quadrada</li>
-        <li>Exercício Python #07 - Média aritmética</li>
-        <li>Exercício Python #08 - Conversor de medidas</li>
-        <li>Exercício Python #09 - Tabuada</li>
-        <li>Exercício Python #010 - Conversor de moedas</li>
-        <li>Exercício Python #011 - Pintando parede</li>
-        <li>Exercício Python #012 - Calculando descontos</li>
-        <li>Exercício Python #013 - Reajuste salarial</li>
-        <li>Exercício Python #014 - Conversor de temperaturas</li>
-        <li>Exercício Python #015 - Aluguel de carros</li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/005 - Antecessor e sucessor.py">05 - Antecessor e sucessor</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/006 - Dobro, triplo e raiz quadrada.py">06 - Dobro, triplo e raiz quadrada</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/007 - Média aritmética.py">07 - Média aritmética</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/008 - Conversor de medidas.py">08 - Conversor de medidas</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/009 - Tabuada.py">09 - Tabuada</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/010%20-%20Conversor%20de%20moedas.py">010 - Conversor de moedas</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/011%20-%20Pintando%20parede.py">011 - Pintando parede</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/012%20-%20Calculando%20descontos.py">012 - Calculando descontos</a></li>
+        <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/013%20-%20Reajuste%20salarial.py">013 - Reajuste salarial</a></li>
+      <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/014%20-%20Conversor%20de%20temperatura.py">014 - Conversor de temperaturas</a></li>
+      <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%201/Aula%207%20-%20Operadores%20aritm%C3%A9ticos/015%20-%20Aluguel%20de%20carro.py">015 - Aluguel de carros</a></li>
       </ul>
     </details></li>
   </ul>
