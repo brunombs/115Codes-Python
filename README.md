@@ -12,7 +12,7 @@
 
 <h2>Conteúdo</h2>
 <details>
-  <summary><h3>Mundo 1</h3></summary>
+  <summary><h3>Mundo 1 - Fundamentos</h3></summary>
   <ul>
     <li><details>
       <summary>Conhecendo a linguagem</summary>
@@ -81,7 +81,7 @@
     </details></li>
 </details>
 <details>
-<summary><h3>Mundo 2</h3></summary>
+<summary><h3>Mundo 2 - Estruturas de controle</h3></summary>
     <ul>
       <li><details>
         <summary>Condições em Python (if, elif, else...)</summary>
@@ -131,63 +131,97 @@
             <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/068%20-%20Jogo%20do%20par%20ou%20%C3%ADmpar.py">068 - Jogo do par ou ímpar</a></li>    
             <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/070%20-%20Estat%C3%ADstica%20de%20produtos.py">070 - Estatística de produtos</a></li>
             <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/071.2%20-%20Simulador%20de%20caixa%20eletr%C3%B4nico.py">071- Simulador de caixa eletrônico</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/071.2.1%20-%20Simulador%20de%20caixa%20eletr%C3%B4nico.py">071 v2 - Simulador de caixa eletrônico</a></li>
         </ul>             
     </details></li>
 </details>
 <details>
-<summary><h3>Mundo 3</h3></summary>
+<summary><h3>Mundo 3 - Estruturas compostas</h3></summary>
         <ul>
         <li><details>
-            <summary>Condições em Python (if, elif, else...)</summary>
+            <summary>Tuplas</summary>
             <ul>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/036%20-%20Aprovando%20empr%C3%A9stimo.py">036 - Aprovando empréstimo</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/037%20-%20Conversor%20de%20bases%20num%C3%A9ricas.py">037 - Conversor de bases numéricas</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/038%20-%20Comparando%20n%C3%BAmeros.py">038 - Comparando números</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/039%20-%20Alistamento%20militar.py">0039 - Alistamento militar</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/040%20-%20Aquele%20cl%C3%A1ssico%20da%20m%C3%A9dia.py">040 - Aquele clássico da média</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/041%20-%20Classificando%20atletas.py">041 - Classificando atletas</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/042%20-%20Analisando%20tri%C3%A2ngulos%20v2.0.py">042 - Analisando triângulos v2.0</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/043%20-%20%C3%8Dndice%20de%20Massa%20Corporal.py">043 - Índice de Massa Corporal</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/044%20-%20Gerenciador%20de%20pagamentos.py">044 - Gerenciador de pagamentos</a></li>
-            <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2012%20-%20Condi%C3%A7%C3%B5es%20aninhadas/045%20-%20GAME%20Pedra%20Papel%20e%20Tesoura.py">045 - GAME: Pedra, Papel e Tesoura</a></li>           
-            </ul>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2016%20-%20Tuplas/072%20-%20N%C3%BAmero%20por%20extenso.py">Exercício Python #072 - Número por extenso</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2016%20-%20Tuplas/073%20-%20Tuplas%20com%20times%20de%20futebol.py">Exercício Python #073 - Tuplas com times de futebol</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2016%20-%20Tuplas/074%20-%20Maior%20e%20menor%20valores%20em%20tupla.py">Exercício Python #074 - Maior e menor valores em tupla</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2016%20-%20Tuplas/075%20-%20An%C3%A1lise%20de%20dados%20em%20uma%20tupla.py">Exercício Python #075 - Análise de dados em uma tupla</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2016%20-%20Tuplas/076%20-%20Lista%20de%20pre%C3%A7os%20com%20tupla.py">Exercício Python #076 - Lista de preços com tupla</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2016%20-%20Tuplas/077%20-%20Contando%20vogais%20em%20tupla.py">Exercício Python #077 - Contando vogais em tupla</a></li>
+            </ul>            
             </details></li>
             <li><details>
-            <summary>Repetiçõe em Python (for)</summary>
+            <summary>Listas</summary>
             <ul>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/046%20-%20Contagem%20regressiva.py">046 - Contagem regressiva</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/047%20-%20Contagem%20de%20pares.py">047 - Contagem de pares</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/048%20-%20Soma%20%C3%ADmpares%20m%C3%BAltiplos%20de%20tr%C3%AAs.py">048 - Soma ímpares múltiplos de três</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/049%20-%20Tabuada%20v2.0.py">049 - Tabuada v2.0</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/050%20-%20Soma%20dos%20pares.py">050 - Soma dos pares</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/051%20-%20Progress%C3%A3o%20Aritm%C3%A9tica.py">051 - Progressão Aritmética</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/052%20-%20N%C3%BAmeros%20primos.py">052 - Números primos</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/053%20-%20Detector%20de%20pal%C3%ADndromo.py">053 - Detector de palíndromo</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/054%20-%20Grupo%20da%20maioridade.py">054 - Grupo da maioridade</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/055%20-%20Maior%20e%20menor%20da%20sequ%C3%AAncia.py">055 - Maior e menor da sequência</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2013%20-%20Repeti%C3%A7%C3%B5es%20for/056%20-%20Analisador%20completo.py">056 - Analisador completo</a></li>
-            </ul>        
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2017%20-%20Listas/078%20-%20Maior%20e%20menor%20valores%20na%20lista.py">Exercício Python #078 - Maior e menor valores na lista</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2017%20-%20Listas/079%20-%20Valores%20%C3%BAnicos%20em%20uma%20lista.py">Exercício Python #079 - Valores únicos em uma lista</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2017%20-%20Listas/080%20-%20Lista%20ordenada%20sem%20repeti%C3%A7%C3%B5es.py">Exercício Python #080 - Lista ordenada sem repetições</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2017%20-%20Listas/081%20-%20Extraindo%20dados%20de%20uma%20lista.py">Exercício Python #081 - Extraindo dados de uma lista</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2017%20-%20Listas/082%20-%20Dividindo%20valores%20em%20v%C3%A1rias%20listas.py">Exercício Python #082 - Dividindo valores em várias listas</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2017%20-%20Listas/083%20-%20Validando%20express%C3%B5es%20matem%C3%A1ticas.py">Exercício Python #083 - Validando expressões matemáticas</a></li>
+            </ul>                 
             </details></li>
             <li><details>
-            <summary>Repetições em Python (while)</summary>
+            <summary>Listas v2</summary>
             <ul>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/057%20-%20Valida%C3%A7%C3%A3o%20de%20dados.py">057 - Validação de dados</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/058%20-%20Jogo%20da%20adivinha%C3%A7%C3%A3o%20v2.0.py">058 - Jogo da adivinhação v2.0</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/059%20-%20Criando%20um%20menu%20de%20op%C3%A7%C3%B5es.py">059 - Criando um menu de opções</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/060%20-%20C%C3%A1lculo%20do%20fatorial.py">060 - Cálculo do fatorial</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/061%20-%20Progress%C3%A3o%20aritm%C3%A9tica%20v2.0.py">061 - Progressão aritmética v2.0</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/062%20-%20Super%20Progress%C3%A3o%20Aritm%C3%A9tica%20v3.0.py">062 - Super Progressão Aritmética v3.0</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/063%20-%20Sequ%C3%AAncia%20de%20Fibonacci%20v1.0.py">063 - Sequência de Fibonacci v1.0</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/064%20-%20Tratando%20v%C3%A1rios%20valores%20v1.0.py">064 - Tratando vários valores v1.0</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/065%20-%20Maior%20e%20menor%20valores.py">065 - Maior e menor valores</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/066%20-%20V%C3%A1rios%20n%C3%BAmeros%20com%20flag.py">066 - Vários números com flag</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/067%20-%20Tabuada%20v3.0.py">067 - Tabuada v3.0</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/068%20-%20Jogo%20do%20par%20ou%20%C3%ADmpar.py">068 - Jogo do par ou ímpar</a></li>    
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/070%20-%20Estat%C3%ADstica%20de%20produtos.py">070 - Estatística de produtos</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/071.2%20-%20Simulador%20de%20caixa%20eletr%C3%B4nico.py">071- Simulador de caixa eletrônico</a></li>
-                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%202/Aula%2014%20-%20Repeti%C3%A7%C3%B5es%20while/071.2.1%20-%20Simulador%20de%20caixa%20eletr%C3%B4nico.py">071 v2 - Simulador de caixa eletrônico</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2018%20-%20Listas%20v2/084%20-%20Lista%20composta%20e%20an%C3%A1lise%20de%20dados.py">Exercício Python #084 - Lista composta e análise de dados</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2018%20-%20Listas%20v2/085%20-%20Listas%20com%20pares%20e%20%C3%ADmpares.py">Exercício Python #085 - Listas com pares e ímpares</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2018%20-%20Listas%20v2/086%20-%20Matrix%20em%20Python.py">Exercício Python #086 - Matrix em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2018%20-%20Listas%20v2/087%20-%20Mais%20sobre%20matriz%20em%20Python.py">Exercício Python #087 - Mais sobre matriz em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2018%20-%20Listas%20v2/088%20-%20Palpites%20para%20a%20Mega-Sena.py">Exercício Python #088 - Palpites para a Mega-Sena</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2018%20-%20Listas%20v2/089%20-%20Boletim%20com%20listas%20compostas.py">Exercício Python #089 - Boletim com listas compostas</a></li>
+            </ul>                      
+        </details></li>
+        <li><details>
+            <summary>Dicionários</summary>
+            <ul>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2019%20-%20Dicion%C3%A1rios/090%20-%20Dicion%C3%A1rio%20em%20Python.py">Exercício Python #090 - Dicionário em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2019%20-%20Dicion%C3%A1rios/091%20-%20Jogo%20de%20dados%20em%20Python.py">Exercício Python #091 - Jogo de dados em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2019%20-%20Dicion%C3%A1rios/092%20-%20Cadastro%20de%20trabalhador%20em%20Python.py">Exercício Python #092 - Cadastro de trabalhador em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2019%20-%20Dicion%C3%A1rios/093%20-%20Cadastro%20de%20jogador%20de%20futebol.py">Exercício Python #093 - Cadastro de jogador de futebol</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2019%20-%20Dicion%C3%A1rios/094%20-%20Unindo%20dicion%C3%A1rios%20e%20listas.py">Exercício Python #094 - Unindo dicionários e listas</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2019%20-%20Dicion%C3%A1rios/095%20-%20Aprimorando%20dicion%C3%A1rios.py">Exercício Python #095 - Aprimorando dicionários</a></li>
+            </ul>                               
+        </details></li>
+        <li><details>
+            <summary>Funções</summary>
+            <ul>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2020%20-%20Fun%C3%A7%C3%B5es/096%20-%20Fun%C3%A7%C3%A3o%20que%20calcula%20%C3%A1rea.py">Exercício Python #096 - Função que calcula área</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2020%20-%20Fun%C3%A7%C3%B5es/097%20-%20Um%20print%20especial.py">Exercício Python #097 - Um print especial</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2020%20-%20Fun%C3%A7%C3%B5es/098%20-%20Fun%C3%A7%C3%A3o%20de%20contador.py">Exercício Python #098 - Função de contador</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2020%20-%20Fun%C3%A7%C3%B5es/099%20-%20Fun%C3%A7%C3%A3o%20que%20descobre%20o%20maior.py">Exercício Python #099 - Função que descobre o maior</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2020%20-%20Fun%C3%A7%C3%B5es/100%20-%20Fun%C3%A7%C3%B5es%20para%20sortear%20e%20somar.py">Exercício Python #100 - Funções para sortear e somar</a></li>
             </ul>             
+        </details></li>
+        <li><details>
+            <summary>Funções v2</summary>
+            <ul>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2021%20-%20Fun%C3%A7%C3%B5es%20v2/101%20-%20Fun%C3%A7%C3%B5es%20para%20vota%C3%A7%C3%A3o.py">Exercício Python #101 - Funções para votação</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2021%20-%20Fun%C3%A7%C3%B5es%20v2/102%20-%20Fun%C3%A7%C3%A3o%20para%20fatorial.py">Exercício Python #102 - Função para fatorial</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2021%20-%20Fun%C3%A7%C3%B5es%20v2/103%20-%20Ficha%20do%20jogador.py">Exercício Python #103 - Ficha do jogador</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2021%20-%20Fun%C3%A7%C3%B5es%20v2/104%20-%20Validando%20entrada%20de%20dados%20em%20Python.py">Exercício Python #104 - Validando entrada de dados em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2021%20-%20Fun%C3%A7%C3%B5es%20v2/105%20-%20Analisando%20e%20gerando%20dicion%C3%A1rios.py">Exercício Python #105 - Analisando e gerando dicionários</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2021%20-%20Fun%C3%A7%C3%B5es%20v2/106%20-%20Sistema%20interativo%20de%20ajuda%20em%20Python.py">Exercício Python #106 - Sistema interativo de ajuda em Python</a></li>
+              </ul>                         
+        </details></li>
+        <li><details>
+            <summary>Modularização em Python</summary>
+            <ul>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2022%20-%20M%C3%B3dulos%20e%20pacotes/107%20-%20Exercitando%20m%C3%B3dulos%20em%20Python.py">Exercício Python #107 - Exercitando módulos em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2022%20-%20M%C3%B3dulos%20e%20pacotes/108%20-%20Formatando%20moedas%20em%20Python.py">Exercício Python #108 - Formatando moedas em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2022%20-%20M%C3%B3dulos%20e%20pacotes/109%20-%20Formatando%20moedas%20em%20Python.py">Exercício Python #109 - Formatando moedas em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2022%20-%20M%C3%B3dulos%20e%20pacotes/110%20-%20Reduzindo%20ainda%20mais%20seu%20programa.py">Exercício Python #110 - Reduzindo ainda mais seu programa</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2022%20-%20M%C3%B3dulos%20e%20pacotes/111%20-%20Transformando%20m%C3%B3dulos%20em%20pacotes.py">Exercício Python #111 - Transformando módulos em pacotes</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2022%20-%20M%C3%B3dulos%20e%20pacotes/112%20-%20Entrada%20de%20dados%20monet%C3%A1rios.py">Exercício Python #112 - Entrada de dados monetários</a></li>
+              </ul>                    
+        </details></li>
+        <li><details>
+            <summary>Tratamento de erros em Python</summary>
+            <ul>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2023%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es/113%20-%20Fun%C3%A7%C3%B5es%20aprofundadas%20em%20Python.py">Exercício Python #113 - Funções aprofundadas em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2023%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es/114%20-%20Site%20est%C3%A1%20acess%C3%ADvel%3F.py">Exercício Python #114 - Site está acessível?</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2023%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es/115a%20-%20Criando%20um%20menu%20em%20Python.py">Exercício Python #115a - Criando um menu em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2023%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es/115b%20-%20Criando%20um%20menu%20em%20Python.py">Exercício Python #115b - Criando um menu em Python</a></li>
+                <li><a href="https://github.com/brunombs/Exercicios-Python/blob/main/Mundo%203/Aula%2023%20-%20Tratamento%20de%20erros%20e%20exce%C3%A7%C3%B5es/115c%20-%20Finalizando%20o%20projeto.py">Exercício Python #115c - Finalizando o projeto</a></li>
+              </ul>                     
         </details></li>
 </details>
       
